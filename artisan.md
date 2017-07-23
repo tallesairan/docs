@@ -1,12 +1,12 @@
 # Artisan Console
 
-- [Introduction](#introduction)
-- [Writing Commands](#writing-commands)
-    - [Generating Commands](#generating-commands)
-    - [Command Structure](#command-structure)
+- [Introdução](#introduction)
+- [Escrevendo comandos](#writing-commands)
+    - [Gerando comandos](#generating-commands)
+    - [Estrutura de comandos](#command-structure)
     - [Closure Commands](#closure-commands)
 - [Defining Input Expectations](#defining-input-expectations)
-    - [Arguments](#arguments)
+    - [argumentos](#arguments)
     - [Options](#options)
     - [Input Arrays](#input-arrays)
     - [Input Descriptions](#input-descriptions)
