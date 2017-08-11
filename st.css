@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+body{
+font-family: 'Open Sans', sans-serif;
+font-weight: 300;
+}
+td{
+	font-weight: 400;
+}
+td.subTitulo.quebraLinha{
+	font-weight: 600;
+
+}
+.chave,.titulo{vertical-align:top}.chave{width:200px;font:12px verdana;color:#555;text-align:right;padding-right:5px}.centralizado,.linhaCorEscura,.subTitulo,.titulo{text-align:center}.valor{font:11px verdana}.titulo{font:12px verdana}.subTitulo{font:16px verdana;color: #ff9100;font-weight:700;vertical-align:middle;}.linhaCorClara{background-color: #ffd298;}.linhaCorEscura{background-color: #f38a00;color:#fff;font:18px verdana;font-weight:700;}.linhaBranca{border:1px solid #66aa9c}.linhaVerde{background-color:#e5fff6}.quebraLinha{border-top: solid 1px #f38a00;}.quebraLinhaAbaixo{border-bottom: solid 1px #f38a00;}.borda{border:1px solid #66aa9c}
+tr.linhaCorClara td.titulo {
+    color: #000000;
+    font-size: 13px;
+    padding: 0px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-weight: 300;
+    font-family: Open Sans,sans-serif;
+}
